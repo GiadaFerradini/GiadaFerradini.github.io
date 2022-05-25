@@ -454,8 +454,6 @@ p.rec {
 
 @media only screen and (max-width: 1200px) {
 
-	.contenitore{background-color: #ee87e2;}
-
 	.cronologia { 
 		width: 95%;
 		overflow: scroll;
@@ -491,14 +489,13 @@ p.rec {
 @media only screen and (max-width: 950px) {
 
 	.contenitore{
-		background-color: yellow;
-    	width: 85%;
+    		width: 85%;
 		float: left;
 	}
 
 	.Scatola{
 		display: block;
-    	width: 85%;
+    		width: 85%;
 		float: left;
 	}
 
@@ -540,10 +537,6 @@ p.rec {
 
 	@media only screen and (max-width: 750px) {
 
-		.contenitore{
-		
-			background-color:rgb(158, 11, 158);
-		}
 
 		.contenitore h2{
 			font-size: 23px;
@@ -603,7 +596,6 @@ p.rec {
 
 	@media only screen and (max-width: 600px) {
 
-		.contenitore{background-color:aqua;}
 
 		.contenitore p{
 			font-size: 12px;
